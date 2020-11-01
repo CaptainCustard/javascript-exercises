@@ -35,6 +35,6 @@ module.exports = {
 	subtract,
 	sum,
 	multiply,
-    power,
+   power,
 	factorial
 }
